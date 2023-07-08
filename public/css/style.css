@@ -1,0 +1,41 @@
+.container-fluid {
+  display: grid;
+  height: 1000px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(152, 159, 157);
+}
+
+.login-form {
+  width: 360px;
+  height: 650px;
+  padding: 1rem;
+  background-color: #fff;
+}
+
+.login-icon i {
+  color: #ffd93d;
+}
+
+.login-icon i:hover {
+  color: #d7b11c;
+}
+
+.login-logo img {
+  width: 150px;
+}
+
+input[type="text"] {
+  border-radius: 12px;
+  padding: 15px auto;
+}
+
+.btn-login {
+  background-color: #ffd93d;
+  color: black;
+  border: none;
+}
+
+.btn-login:hover {
+  background-color: #d7b11c;
+}
