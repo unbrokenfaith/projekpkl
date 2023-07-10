@@ -6,6 +6,11 @@
   background-color: rgb(152, 159, 157);
 }
 
+.card-body {
+  width: 350px;
+  height: 650px;
+}
+
 .login-form {
   width: 360px;
   height: 650px;
@@ -38,4 +43,33 @@ input[type="text"] {
 
 .btn-login:hover {
   background-color: #d7b11c;
+}
+
+/* bagian kategori */
+
+.kendaraan {
+  justify-content: center;
+  align-content: center;
+  width: 210px;
+  height: 105px;
+  background-color: #EF6C57;
+  border-radius: 15px;
+}
+
+.barang {
+  justify-content: center;
+  align-content: center;
+  width: 210px;
+  height: 105px;
+  background-color: #4CAF50;
+  border-radius: 15px;
+}
+
+.ruang {
+  justify-content: center;
+  align-content: center;
+  width: 210px;
+  height: 105px;
+  background-color: #FFD966;
+  border-radius: 15px;
 }

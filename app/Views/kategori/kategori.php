@@ -3,19 +3,22 @@
 <?= $this->section('content'); ?>
 
 <div class="container-fluid">
-  <div class="card kategori">
-    <div class="card-body">
-      <div class="kendaraan">
+    <div class="card kategori-form">
+        <div class="card-body  text-center">
+            <div class="kendaraan mt-5 ">
 
-        <a href="https://www.flaticon.com/free-icons/transport" title="transport icons"></a>
-      </div>
-      <div class="barang">
+            <i class="fa-solid fa-car-side"></i>
+            </div>
 
-      </div>
-      <div class="ruang">
+            <div class="barang mt-4">
 
-      </div>
+            </div>
+
+            <div class="ruang mt-4 ">
+
+            </div>
+        </div>
     </div>
-  </div>
 </div>
+
 <?= $this->endSection(); ?>
