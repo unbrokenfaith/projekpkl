@@ -9,6 +9,7 @@
 .card-body {
   width: 350px;
   height: 650px;
+  align-content: center;
 }
 
 .login-form {
@@ -72,4 +73,5 @@ input[type="text"] {
   height: 105px;
   background-color: #FFD966;
   border-radius: 15px;
+  left: 50%;
 }

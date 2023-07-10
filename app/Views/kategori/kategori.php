@@ -4,7 +4,7 @@
 
 <div class="container-fluid">
     <div class="card kategori-form">
-        <div class="card-body  text-center">
+        <div class="card-body text-center">
             <div class="kendaraan mt-5 ">
 
             <i class="fa-solid fa-car-side"></i>
