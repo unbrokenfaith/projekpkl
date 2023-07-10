@@ -25,7 +25,9 @@
             <input type="text" class="form-control rounded-start" id="nik" placeholder="Nomor Induk Kepegawaian">
             <span class="input-group-text"><i class="fa-solid fa-address-card"></i></span>
           </div>
+          <a href="/kategori/kategori">
           <button type="submit" class="btn btn-primary mt-4 btn-login px-4 py-2 fw-bold">Login</button>
+          </a>
         </form>
       </div>
       <!-- <div class="login-icon position-relative">
